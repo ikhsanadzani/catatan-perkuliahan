@@ -1,4 +1,4 @@
-## Latar Belakang  (kenapa saya tertarik meneliti ini, dan kenapa objek dan subjek penelitian itu menarik)
+## Latar Belakang  (kenapa saya tertarik meneliti ini, dan kenapa objek (biasanya tempat penelitiannya atau media penelitiannya) dan subjek(tema penelitiannya, misal teknologi) penelitian itu menarik)
 ## Identifikasi Masalah
 ## Batasan Masalah
 ## Rumusan Masalah
