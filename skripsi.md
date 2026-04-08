@@ -1,4 +1,5 @@
 # Implementasi Konsep Media Player Pada Pengelolaan Perpustakaan
 ## Diajukan untuk Memenuhi Persyaratan Memperolah Gelar Sarjana Ilmu Perpustakaan (S. Ip)
 
-## Oleh: 
+## Oleh: Mas Mochammad Ikhsan Adzani
+## NIM : 12402051030094
