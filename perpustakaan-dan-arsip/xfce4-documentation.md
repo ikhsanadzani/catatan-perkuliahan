@@ -39,6 +39,3 @@ reboot
 ### setelah reboot kita akan disambut oleh tampilan lightdm, masukan pass user dan kita masuk kedalam xfce
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ebb5a509-0053-4f14-bf3c-4873cd5eb2ba" />
-
-# Problem Solving ketika ada kondisi terpental terus ketika sedang di dekstop manager
-- tekan `alt` `ctrl` `shift` `f2`
