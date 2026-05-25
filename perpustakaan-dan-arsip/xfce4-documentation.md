@@ -24,7 +24,7 @@ nmtui
 ## depedencies xfce4
 
 ```
-sudo pacman -S xfce4 xfce4-goodies lightdm lightdm-gtk-greeter pipewire pipewire-pulse wireplumber pavucontrol
+sudo pacman -S xfce4 xfce4-goodies lightdm lightdm-gtk-greeter pipewire pipewire-pulse wireplumber pavucontrol firefox
 ```
 
 ## Mengaktifkan display manager
