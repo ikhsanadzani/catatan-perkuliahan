@@ -1,3 +1,12 @@
+# luks dan lvm
+## lvm on luks
+> luks dlu dibikin baru lvm nya
+
+## luks on lvm 
+> lvm dulu dibikin baru luks nya
+
+#
+
 # Pembagian diks layout CIS
 
 ## tmp
@@ -40,6 +49,28 @@ mounting home:
 rw,nodev,nosuid,relatime
 ```
 
+# Penjelasan setiap partisi yang dibagi pada CIS
+## var
+> menyimpan data dinamis, data yang terkadang bisa bertambah juga berkurang
+
+## vlog
+> mencatat log terkait komputer & aplikasi yang tidak kritikal
+
+## vaud 
+> mencatat log terkait komputer & aplikasi yang bersifat kritikal
+
+## vtmp
+> untuk menyimpan data sementara, ketika device dimatikan data yang dipartisi masih ada
+
+## tmp
+> ketika device dimatikan data hilang semua
+
+## tmpfs 
+> menyimpan semua data di dalam RAM
+
+## Kenapa home di CIS dibagi menjadi 2?
+> karena untuk memisahkan data level public & intern / administrator
+ 
 
 # Penjelasan setiap atribut
 ## nodev
@@ -52,7 +83,10 @@ rw,nodev,nosuid,relatime
 > tidak ada file yang memiliki izin eksekusi didalam partisi yang memiliki atribut `noexec`
 
 ## relatime
-> mencatat waktu setiap file yang dimodifikasi 
+> mencatat waktu setiap file yang dimodifikasi
+
+
+
 
 
 
