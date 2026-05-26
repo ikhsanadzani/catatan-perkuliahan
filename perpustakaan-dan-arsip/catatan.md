@@ -5,7 +5,6 @@
 ## luks on lvm 
 > lvm dulu dibikin baru luks nya
 
-#
 
 # Pembagian diks layout CIS
 
